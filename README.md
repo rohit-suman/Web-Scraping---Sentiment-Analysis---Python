@@ -1,2 +1,2 @@
-# Sentiment-Analysis---Python
+# Web-Scraping---Sentiment-Analysis---Python
 Project - Web Scraping (Multiple URLs) - Sentiment Analysis 
